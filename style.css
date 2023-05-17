@@ -1,0 +1,40 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:130%; 
+
+}
+.wrapper{
+    width:550px;
+    margin:0 auto;
+}
+label{
+    color:darkmagenta;
+    width:200px;
+    float:left;
+    top:20px;
+     position:relative; 
+     font-size: 15px;;
+    
+}
+input{
+    position:relative; 
+    top:12px;
+    width:300px;
+    height:10px;
+    font-size:25px;
+    border:3px solid black;
+    padding:8px 5px 12px 5px;
+    border-radius:5px;
+    border-color:darkmagenta;
+}
+#submit{
+    width:100px;
+    height:29px;
+    margin-left:0px;
+    top:26px;
+    position:relative;
+    border-radius: 8px;
+    border-color:darkmagenta;
+    border-width:3px ;
+    /* border:3px solid black;    */
+}
